@@ -1,9 +1,11 @@
- Build HTMLCoin Docker Images for Ubuntu 18.04 Bionic and 20.04 Focal
+ Build HTMLCoin Docker Images for Arm devices
 
 
 
 
-## HTMLCoin Docker dockerfile and scripts
+## HTMLCoin Docker dockerfile and scripts for Arm devices
+
+This Dockerfile was tested in an ArmV7 device (Raspberry Pi 3B) and in an Arm64 device (Dragonboard 410C). This Dockerfile uses an Ubuntu 18.04 base image.
 
 ### Method 1:
 

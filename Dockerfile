@@ -21,7 +21,7 @@ VOLUME /data
 COPY htmlcoin.conf /root/.htmlcoin/htmlcoin.conf
 
 LABEL version="2.5"
-
+ 
 EXPOSE 14889
 
 ENTRYPOINT ["/bin/htmlcoind"]

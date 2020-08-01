@@ -12,7 +12,7 @@ The easiest way to run HTMLCoin on Docker is to pull from Docker Hub:
 ```
 docker pull ilorivero/htmlarm:latest
 ```
-
+ 
 This way you will avoid spending hours of compilation time that are required to do the method 2 below.
 
 ### Method 2:
